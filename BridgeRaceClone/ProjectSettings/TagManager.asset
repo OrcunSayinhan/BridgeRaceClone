@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Blue
+  - Stairway
+  - BlueCharacter
+  - StackControl
+  - LastStep
+  - Green
+  - GreenStep
+  - BlueStep
+  - GreenCharacter
+  - GreenTag
+  - BlueTag
+  - Way
+  - Red
+  - RedCharacter
+  - RedStep
+  - RedTag
+  - LastDestination
+  - GameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Green
+  - Water
+  - UI
+  - Blue
+  - Red
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
